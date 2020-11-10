@@ -21,6 +21,8 @@ Use a smaller sample dataset – we are providing a sample which is 1% of the en
 
 # Methods used (on the bigger dataset after data cleaning):  
 • Using a Count Vectorizer
+
 • Using TF/IDF
+
 • Using a different classifier
 
